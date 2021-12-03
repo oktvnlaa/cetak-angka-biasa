@@ -1,8 +1,7 @@
 # cetak-angka-biasa
 /*   	
 *	program untuk  mencetak  angka  1-7
-*	dibuat hari  ahad,  12  maret  2011
-*	sambilan aja ...
+*	dibuat hari  jum'at,  03  desember  2021
 *	nama file : cetak-angka-biasa.c
 *	*/
 
